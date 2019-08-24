@@ -10,9 +10,9 @@ DIY Indoor Grow Box é um projeto de construção de uma 'caixa para cultivo de 
 A idéia é que qualquer um interessado consiga aqui, informações o suficiente para conseguir criar seu próprio projeto, igual a esse ou adaptado.
 
 ### Projeto
-A caixa é construida utilizando, canos e conexões PVC, compensado de 6mm, isopor e manta isolante termica aluminizada, todos estes, materiais baratos e encontrados em lojas de material e construção no raio de 1km da minha casa.
+A caixa é construída utilizando, canos e conexões PVC, compensado de 6mm, isopor e manta isolante térmica aluminizada, todos estes, materiais baratos e encontrados em lojas de material e construção no raio de 1km da minha casa.
 
-As dimensões foram definidas de acordo com o espaço que eu tenho disponivel, mas será possível redimensionar (em escala) o [projeto do SketchUp](https://github.com/DIYGrow/indoor-growbox/blob/master/projeto/grow.skphttp:// "projeto do SketchUp") para seu espaço, levando em conta claro, que talvez sejam necessarias alterações no projeto dependendo do redimensionamento.
+As dimensões foram definidas de acordo com o espaço que eu tenho disponível, mas será possível redimensionar (em escala) o [projeto do SketchUp](https://github.com/DIYGrow/indoor-growbox/blob/master/projeto/grow.skphttp:// "projeto do SketchUp") para seu espaço, levando em conta claro, que talvez sejam necessárias alterações no projeto dependendo do redimensionamento.
 <br>
 
 <img  width="500" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/teste_lampadas.jpeg"/>
@@ -34,7 +34,7 @@ No meu espaço, a dimensão máxima que eu consegui foi **110cm x 120cm x 60cm**
 
 <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/estrutura_pvc.png"/>
 
-Eu utilizei tubos e conexões de PVC soldaveis de 3/4, acho que da para fazer de 1/2 também e pode ser mais barato, na lista de materiais terão os preços que eu encontrei para ambas.
+Eu utilizei tubos e conexões de PVC soldáveis de 3/4, acho que da para fazer de 1/2 também e pode ser mais barato, na lista de materiais terão os preços que eu encontrei para ambas.
 
 <br>
 
@@ -43,7 +43,7 @@ Inicialmente eu cogitei utilizar duas camadas de isopor de 15mm para fazer o fec
 
  <img  height="200" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/fechamento_compensado_isopor.png"/>
 
-Para fixar o fechamento na estrutra de PVC serão utilizados parafusos sextavados e porcas, que atravesam o compensado e tubo e as porcas fecham por dentro da caixa, essas pontas de parafuso que sobraram pra dentro serão ocultadas pelo fechamento interno de isopor.
+Para fixar o fechamento na estrutra de PVC serão utilizados parafusos sextavados e porcas, que atravessam o compensado e tubo e as porcas fecham por dentro da caixa, essas pontas de parafuso que sobraram pra dentro serão ocultadas pelo fechamento interno de isopor.
 <br>
 
 #### Fundo interno
@@ -51,7 +51,7 @@ Para fixar o fechamento na estrutra de PVC serão utilizados parafusos sextavado
 #### Porta
 --
 #### Luzes
-O projeto utiliza lâmpadas de LED das mais comuns e faceis de encontrar, como citado anteriormente o objetivo inicial não é máxima produção, eventualmente partes do projeto serão evoluidas com foco em produtividade.
+O projeto utiliza lâmpadas de LED das mais comuns e fáceis de encontrar, como citado anteriormente o objetivo inicial não é máxima produção, eventualmente partes do projeto serão evoluídas com foco em produtividade.
 
 <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/lâmpadas.jpeg"/>
 
@@ -59,7 +59,7 @@ Hoje são **8 lâmpadas de 12w e 1050lm, sendo, 4x quentes (3500k) e 4x frias (6
 
 <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/teste_lampadas2.jpeg"/> <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/teste_lampadas3.jpeg"/>
 
-A iluminação é dividida em dois conjuntos de 4 lampadas com duas quentes e duas frias, cada conjunto pode ser **posicionado** e **acionado** independentemente, eles foram desenhados com um espaço para uma quinta lâmpada que **será utilizada somente para a etapa de Floração**, provavelmente um **LED COB**
+A iluminação é dividida em dois conjuntos de 4 lâmpadas com duas quentes e duas frias, cada conjunto pode ser **posicionado** e **acionado** independentemente, eles foram desenhados com um espaço para uma quinta lâmpada que **será utilizada somente para a etapa de Floração**, provavelmente um **LED COB**
 
 <br>
 
