@@ -9,38 +9,29 @@ DIY Indoor Grow Box é um projeto de construção de uma 'caixa para cultivo de 
 
 A idéia é que qualquer um interessado consiga aqui, informações o suficiente para conseguir criar seu próprio projeto, igual a esse ou adaptado.
 
-<br/>
 ### Projeto
+
 
 #### Estrutura de PVC
 
-<br/>
 #### Fechamento externo
 
-
-<br/>
 #### Fechamento interno
 
-<br/>
 #### Fundo interno
 
-<br/>
 #### Porta
 
-<br/>
 #### Luzes
 
-<br/>
 #### Exaustão
 
-<br/>
 #### Elétrica
 
-<br/>
 #### Sistema de irrigação e nutrientes
 
-<br/>
+
 ### Lista de materiais e custos
 
-<br/>
+
 ### Cultivo
