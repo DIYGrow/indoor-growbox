@@ -26,6 +26,12 @@ As dimensões foram definidas de acordo com o espaço que eu tenho disponível, 
 
 <br>
 
+### Como colaborar?
+Para colaborar com o projeto acesse link abaixo
+-  [Tutorial basico de como colaborar](https://github.com/DIYGrow/indoor-growbox/blob/master/como-colaborar/README.md "Tutorial basico de como colaborar")
+
+<br>
+
 #### Estrutura de PVC
 
 A estrutura é composta por **8 joelhos, 14 Ts e 15m de tubo PVC**.
@@ -77,7 +83,20 @@ O filtro de odores será feito em casa também com materiais que ainda estou pes
 <br>
 
 #### Elétrica
---
+Segue o diagrama elétrico, ainda em construção
+
+-  [Diagrama em PDF](https://github.com/DIYGrow/indoor-growbox/tree/master/desenhos/esquema_elétrico.pdf "Diagrama em PDF")
+
+<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/elétrico_pag1.jpeg"/>
+<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/elétrico_pag2.jpeg"/>
+
+A montagem da física da caixa, ainda em progresso
+
+<img  height="200" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/caixa_elétrica.jpeg"/>
+<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/fotos/caixa_elétrica2.jpeg"/>
+
+<br>
+
 #### Sistema de irrigação e nutrientes
 --
 #### Lista completa de materiais e custos
