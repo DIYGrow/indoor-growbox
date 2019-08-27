@@ -83,9 +83,10 @@ O filtro de odores será feito em casa também com materiais que ainda estou pes
 <br>
 
 #### Elétrica
-Segue o diagrama elétrico, ainda em construção
+Segue o diagrama elétrico, ainda em construção, ele foi desenhado utilizando o DRAW.IO que é uma ferramenta online, é só abrir o arquivo *.drawio contido na pasta de projetos
 
 -  [Diagrama em PDF](https://github.com/DIYGrow/indoor-growbox/tree/master/desenhos/esquema_elétrico.pdf "Diagrama em PDF")
+-  [Arquivo do projeto elétrico](https://github.com/DIYGrow/indoor-growbox/blob/master/projeto/el%C3%A9trico.drawio "Arquivo do projeto elétrico")
 
 <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/el%C3%A9trico_pag1.png"/>
 <img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/el%C3%A9trico_pag2.png"/>
