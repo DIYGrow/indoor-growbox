@@ -87,8 +87,8 @@ Segue o diagrama elétrico, ainda em construção
 
 -  [Diagrama em PDF](https://github.com/DIYGrow/indoor-growbox/tree/master/desenhos/esquema_elétrico.pdf "Diagrama em PDF")
 
-<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/elétrico_pag1.jpeg"/>
-<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/elétrico_pag2.jpeg"/>
+<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/el%C3%A9trico_pag1.png"/>
+<img  width="300" src="https://raw.githubusercontent.com/DIYGrow/indoor-growbox/master/desenhos/el%C3%A9trico_pag2.png"/>
 
 A montagem da física da caixa, ainda em progresso
 
